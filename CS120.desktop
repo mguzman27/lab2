@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=CS120
+Type=Application
+Terminal=false
+Icon[en_US]=vmware-player
+Name[en_US]=CS120
+Exec=/usr/local/bin/CS120-7
+Comment[en_US]=CS120 virtual machine
+Comment=CS120 virtual machine
+Icon=/usr/share/icons/hicolor/48x48/apps/vmware-player.png
+GenericName[en_US]=
