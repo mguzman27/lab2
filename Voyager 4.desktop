@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Voyager 4
-Exec=env WINEPREFIX="/home/student/.wine" wine C:\\\\Program\\ Files\\\Carina\\ Software\\\\Voyager\\ 4\\\\Voyager4.exe 
-Type=Application
-StartupNotify=true
-Icon=/usr/local/share/icons/hicolor/256x256/08-saturn-icon.png
