@@ -3,7 +3,7 @@
 //
 //
 //program: asteroids.cpp
-//author:  Gordon Griesel
+//author:  Michael Guzman
 //date:    2014 - 2018
 //mod spring 2015: added constructors
 //mod spring 2018: X11 wrapper class
